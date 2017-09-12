@@ -1,0 +1,11 @@
+{
+  "name": "5-problems-for-software-engineer",
+  "version": "1.0.0",
+  "description": "The replies for https://proglib.io/p/5-problems-for-software-engineer/",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "s373r",
+  "license": "LGPL-3.0"
+}
